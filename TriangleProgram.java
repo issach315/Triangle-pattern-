@@ -6,6 +6,8 @@ public class TriangleProgram
     public static void main(String[] args)
      {
         int n=5;
+        
+        // RightAngle tnagle pattern
 
     for(int i=1;i<=n;i++)
     {
